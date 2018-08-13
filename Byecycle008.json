@@ -35,7 +35,7 @@
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "Mobile",
 		"Segment Description": "Global results",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 947,
 		"Percentage": 0.354
 	},
@@ -44,38 +44,38 @@
 		"Segment Type": "Web",
 		"Segment Description": "Web",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "Web",
 		"Segment Description": "Web",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "Web",
 		"Segment Description": "Web",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "Web",
 		"Segment Description": "Web",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "Web",
 		"Segment Description": "Web",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 2,
 		"Percentage": 1
 	},
@@ -115,7 +115,7 @@
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "Gender",
 		"Segment Description": "Female voters",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 271,
 		"Percentage": 0.243
 	},
@@ -155,7 +155,7 @@
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "Gender",
 		"Segment Description": "Male voters",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 678,
 		"Percentage": 0.434
 	},
@@ -180,22 +180,22 @@
 		"Segment Type": "University",
 		"Segment Description": "University of Delaware",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Delaware",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Delaware",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 1,
 		"Percentage": 0.333
 	},
@@ -220,22 +220,22 @@
 		"Segment Type": "University",
 		"Segment Description": "University of Pennsylvania",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Pennsylvania",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Pennsylvania",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 2,
 		"Percentage": 0.5
 	},
@@ -244,8 +244,8 @@
 		"Segment Type": "University",
 		"Segment Description": "Students of New York",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -275,7 +275,7 @@
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Students of New York",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 18,
 		"Percentage": 0.4
 	},
@@ -284,8 +284,8 @@
 		"Segment Type": "University",
 		"Segment Description": "University of Central Arkansas",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -300,24 +300,24 @@
 		"Segment Type": "University",
 		"Segment Description": "University of Central Arkansas",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Central Arkansas",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Central Arkansas",
-		"Answer": "None",
-		"Count": "0",
-		"Percentage": "0"
+		"Answer": "Instagram",
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -332,30 +332,30 @@
 		"Segment Type": "University",
 		"Segment Description": "Northeastern University",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Northeastern University",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Northeastern University",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Northeastern University",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 1,
 		"Percentage": 0.5
 	},
@@ -364,38 +364,38 @@
 		"Segment Type": "University",
 		"Segment Description": "West Virginia University ",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "West Virginia University ",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "West Virginia University ",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "West Virginia University ",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "West Virginia University ",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 2,
 		"Percentage": 1
 	},
@@ -412,32 +412,32 @@
 		"Segment Type": "University",
 		"Segment Description": "Northern Arizona University",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Northern Arizona University",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Northern Arizona University",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Northern Arizona University",
-		"Answer": "None",
-		"Count": "0",
-		"Percentage": "0"
+		"Answer": "Instagram",
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -452,70 +452,70 @@
 		"Segment Type": "University",
 		"Segment Description": "University of California, Santa Barbara",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of California, Santa Barbara",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of California, Santa Barbara",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of California, Santa Barbara",
-		"Answer": "None",
-		"Count": "0",
-		"Percentage": "0"
+		"Answer": "Instagram",
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Memphis",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Memphis",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Memphis",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Memphis",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Memphis",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 1,
 		"Percentage": 1
 	},
@@ -524,38 +524,38 @@
 		"Segment Type": "University",
 		"Segment Description": "Auburn University",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Auburn University",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Auburn University",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Auburn University",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Auburn University",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 4,
 		"Percentage": 1
 	},
@@ -580,8 +580,8 @@
 		"Segment Type": "University",
 		"Segment Description": "Randolph-Macon College",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -595,7 +595,7 @@
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Randolph-Macon College",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 3,
 		"Percentage": 0.429
 	},
@@ -604,16 +604,16 @@
 		"Segment Type": "University",
 		"Segment Description": "Wisconsin HS",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Wisconsin HS",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -628,24 +628,24 @@
 		"Segment Type": "University",
 		"Segment Description": "Wisconsin HS",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Wisconsin HS",
-		"Answer": "None",
-		"Count": "0",
-		"Percentage": "0"
+		"Answer": "Instagram",
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Penn State University",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -668,14 +668,14 @@
 		"Segment Type": "University",
 		"Segment Description": "Penn State University",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Penn State University",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 1,
 		"Percentage": 0.333
 	},
@@ -692,30 +692,30 @@
 		"Segment Type": "University",
 		"Segment Description": "Case Western Reserve University",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Case Western Reserve University",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Case Western Reserve University",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Case Western Reserve University",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 3,
 		"Percentage": 0.75
 	},
@@ -724,38 +724,38 @@
 		"Segment Type": "University",
 		"Segment Description": "Rutgers University",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Rutgers University",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Rutgers University",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Rutgers University",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Rutgers University",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 1,
 		"Percentage": 1
 	},
@@ -772,8 +772,8 @@
 		"Segment Type": "University",
 		"Segment Description": "University of Oregon",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -788,14 +788,14 @@
 		"Segment Type": "University",
 		"Segment Description": "University of Oregon",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Oregon",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 1,
 		"Percentage": 0.25
 	},
@@ -820,22 +820,22 @@
 		"Segment Type": "University",
 		"Segment Description": "University of Toronto",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Toronto",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Toronto",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 1,
 		"Percentage": 0.333
 	},
@@ -844,38 +844,38 @@
 		"Segment Type": "University",
 		"Segment Description": "State University of New York Geneso",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "State University of New York Geneso",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "State University of New York Geneso",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "State University of New York Geneso",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "State University of New York Geneso",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 1,
 		"Percentage": 1
 	},
@@ -884,38 +884,38 @@
 		"Segment Type": "University",
 		"Segment Description": "Carthage College",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Carthage College",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Carthage College",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Carthage College",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Carthage College",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 1,
 		"Percentage": 1
 	},
@@ -924,38 +924,38 @@
 		"Segment Type": "University",
 		"Segment Description": "University of South Carolina",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of South Carolina",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of South Carolina",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of South Carolina",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of South Carolina",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 4,
 		"Percentage": 1
 	},
@@ -972,70 +972,70 @@
 		"Segment Type": "University",
 		"Segment Description": "Wesleyan University",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Wesleyan University",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Wesleyan University",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Wesleyan University",
-		"Answer": "None",
-		"Count": "0",
-		"Percentage": "0"
+		"Answer": "Instagram",
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Memorial University of Newfoundland",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Memorial University of Newfoundland",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Memorial University of Newfoundland",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Memorial University of Newfoundland",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Memorial University of Newfoundland",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 1,
 		"Percentage": 1
 	},
@@ -1044,24 +1044,24 @@
 		"Segment Type": "University",
 		"Segment Description": "University of Kansas",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Kansas",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Kansas",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -1075,17 +1075,17 @@
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Kansas",
-		"Answer": "None",
-		"Count": "0",
-		"Percentage": "0"
+		"Answer": "Instagram",
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Redlands",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -1100,24 +1100,24 @@
 		"Segment Type": "University",
 		"Segment Description": "University of Redlands",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Redlands",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Redlands",
-		"Answer": "None",
-		"Count": "0",
-		"Percentage": "0"
+		"Answer": "Instagram",
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -1140,8 +1140,8 @@
 		"Segment Type": "University",
 		"Segment Description": "University of Arkansas",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -1155,7 +1155,7 @@
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Arkansas",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 5,
 		"Percentage": 0.263
 	},
@@ -1164,38 +1164,38 @@
 		"Segment Type": "University",
 		"Segment Description": "Richland High School",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Richland High School",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Richland High School",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Richland High School",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Richland High School",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 1,
 		"Percentage": 1
 	},
@@ -1212,40 +1212,40 @@
 		"Segment Type": "University",
 		"Segment Description": "Wake Forest University",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Wake Forest University",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Wake Forest University",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Wake Forest University",
-		"Answer": "None",
-		"Count": "0",
-		"Percentage": "0"
+		"Answer": "Instagram",
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Iowa State University",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -1260,22 +1260,22 @@
 		"Segment Type": "University",
 		"Segment Description": "Iowa State University",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Iowa State University",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Iowa State University",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 2,
 		"Percentage": 0.667
 	},
@@ -1284,8 +1284,8 @@
 		"Segment Type": "University",
 		"Segment Description": "Florida Gulf Coast University",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -1300,24 +1300,24 @@
 		"Segment Type": "University",
 		"Segment Description": "Florida Gulf Coast University",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Florida Gulf Coast University",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Florida Gulf Coast University",
-		"Answer": "None",
-		"Count": "0",
-		"Percentage": "0"
+		"Answer": "Instagram",
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -1332,30 +1332,30 @@
 		"Segment Type": "University",
 		"Segment Description": "University of Central Missouri",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Central Missouri",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Central Missouri",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Central Missouri",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 2,
 		"Percentage": 0.667
 	},
@@ -1364,8 +1364,8 @@
 		"Segment Type": "University",
 		"Segment Description": "California State University Long Beach",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -1380,32 +1380,32 @@
 		"Segment Type": "University",
 		"Segment Description": "California State University Long Beach",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "California State University Long Beach",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "California State University Long Beach",
-		"Answer": "None",
-		"Count": "0",
-		"Percentage": "0"
+		"Answer": "Instagram",
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Chaparral High School",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -1420,24 +1420,24 @@
 		"Segment Type": "University",
 		"Segment Description": "Chaparral High School",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Chaparral High School",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Chaparral High School",
-		"Answer": "None",
-		"Count": "0",
-		"Percentage": "0"
+		"Answer": "Instagram",
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -1452,30 +1452,30 @@
 		"Segment Type": "University",
 		"Segment Description": "Colorado Academy",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Colorado Academy",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Colorado Academy",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Colorado Academy",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 1,
 		"Percentage": 0.5
 	},
@@ -1484,38 +1484,38 @@
 		"Segment Type": "University",
 		"Segment Description": "United States Naval Academy",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "United States Naval Academy",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "United States Naval Academy",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "United States Naval Academy",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "United States Naval Academy",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 1,
 		"Percentage": 1
 	},
@@ -1524,24 +1524,24 @@
 		"Segment Type": "University",
 		"Segment Description": "University of Wisconsin-Whitewater",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Wisconsin-Whitewater",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Wisconsin-Whitewater",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -1555,9 +1555,9 @@
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Wisconsin-Whitewater",
-		"Answer": "None",
-		"Count": "0",
-		"Percentage": "0"
+		"Answer": "Instagram",
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -1572,40 +1572,40 @@
 		"Segment Type": "University",
 		"Segment Description": "Lock Haven University",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Lock Haven University",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Lock Haven University",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Lock Haven University",
-		"Answer": "None",
-		"Count": "0",
-		"Percentage": "0"
+		"Answer": "Instagram",
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Kalamazoo College",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -1620,24 +1620,24 @@
 		"Segment Type": "University",
 		"Segment Description": "Kalamazoo College",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Kalamazoo College",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Kalamazoo College",
-		"Answer": "None",
-		"Count": "0",
-		"Percentage": "0"
+		"Answer": "Instagram",
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -1660,22 +1660,22 @@
 		"Segment Type": "University",
 		"Segment Description": "Stanford University",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Stanford University",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Stanford University",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 5,
 		"Percentage": 0.556
 	},
@@ -1708,14 +1708,14 @@
 		"Segment Type": "University",
 		"Segment Description": "Vanderbilt University",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Vanderbilt University",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 13,
 		"Percentage": 0.325
 	},
@@ -1740,22 +1740,22 @@
 		"Segment Type": "University",
 		"Segment Description": "Chapman University",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Chapman University",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Chapman University",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 2,
 		"Percentage": 0.2
 	},
@@ -1780,8 +1780,8 @@
 		"Segment Type": "University",
 		"Segment Description": "Missouri State University",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -1795,7 +1795,7 @@
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Missouri State University",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 10,
 		"Percentage": 0.4
 	},
@@ -1835,7 +1835,7 @@
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Emory University",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 15,
 		"Percentage": 0.319
 	},
@@ -1852,30 +1852,30 @@
 		"Segment Type": "University",
 		"Segment Description": "University of Richmond",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Richmond",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Richmond",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Richmond",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 2,
 		"Percentage": 0.4
 	},
@@ -1884,38 +1884,38 @@
 		"Segment Type": "University",
 		"Segment Description": "Medford High School",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Medford High School",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Medford High School",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Medford High School",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Medford High School",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 1,
 		"Percentage": 1
 	},
@@ -1932,30 +1932,30 @@
 		"Segment Type": "University",
 		"Segment Description": "University of British Columbia",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of British Columbia",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of British Columbia",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of British Columbia",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 2,
 		"Percentage": 0.667
 	},
@@ -1964,8 +1964,8 @@
 		"Segment Type": "University",
 		"Segment Description": "Colby College",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -1980,24 +1980,24 @@
 		"Segment Type": "University",
 		"Segment Description": "Colby College",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Colby College",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Colby College",
-		"Answer": "None",
-		"Count": "0",
-		"Percentage": "0"
+		"Answer": "Instagram",
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -2020,8 +2020,8 @@
 		"Segment Type": "University",
 		"Segment Description": "Bates College",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -2035,7 +2035,7 @@
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Bates College",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 17,
 		"Percentage": 0.362
 	},
@@ -2052,32 +2052,32 @@
 		"Segment Type": "University",
 		"Segment Description": "Westport, CT",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Westport, CT",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Westport, CT",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Westport, CT",
-		"Answer": "None",
-		"Count": "0",
-		"Percentage": "0"
+		"Answer": "Instagram",
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -2108,14 +2108,14 @@
 		"Segment Type": "University",
 		"Segment Description": "Whitman College",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Whitman College",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 9,
 		"Percentage": 0.409
 	},
@@ -2124,8 +2124,8 @@
 		"Segment Type": "University",
 		"Segment Description": "Thompson Rivers University ",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -2140,22 +2140,22 @@
 		"Segment Type": "University",
 		"Segment Description": "Thompson Rivers University ",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Thompson Rivers University ",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Thompson Rivers University ",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 1,
 		"Percentage": 0.5
 	},
@@ -2164,38 +2164,38 @@
 		"Segment Type": "University",
 		"Segment Description": "University of Central Florida",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Central Florida",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Central Florida",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Central Florida",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Central Florida",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 2,
 		"Percentage": 1
 	},
@@ -2204,8 +2204,8 @@
 		"Segment Type": "University",
 		"Segment Description": "University of Montana ",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -2220,77 +2220,61 @@
 		"Segment Type": "University",
 		"Segment Description": "University of Montana ",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Montana ",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Montana ",
-		"Answer": "None",
-		"Count": "0",
-		"Percentage": "0"
+		"Answer": "Instagram",
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Nebraska",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Nebraska",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Nebraska",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Nebraska",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Nebraska",
-		"Answer": "None",
-		"Count": 1,
-		"Percentage": 1
-	},
-	{
-		"Question": "What social platform has influenced your online shopping most?",
-		"Segment Type": "University",
-		"Segment Description": "Whatsgoodly University",
-		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
-	},
-	{
-		"Question": "What social platform has influenced your online shopping most?",
-		"Segment Type": "University",
-		"Segment Description": "Whatsgoodly University",
 		"Answer": "Instagram",
 		"Count": 1,
 		"Percentage": 1
@@ -2299,25 +2283,41 @@
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Whatsgoodly University",
+		"Answer": "Facebook",
+		"Count": 0,
+		"Percentage": 0
+	},
+	{
+		"Question": "What social platform has influenced your online shopping most?",
+		"Segment Type": "University",
+		"Segment Description": "Whatsgoodly University",
+		"Answer": "Instagram",
+		"Count": 1,
+		"Percentage": 1
+	},
+	{
+		"Question": "What social platform has influenced your online shopping most?",
+		"Segment Type": "University",
+		"Segment Description": "Whatsgoodly University",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Whatsgoodly University",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Whatsgoodly University",
-		"Answer": "None",
-		"Count": "0",
-		"Percentage": "0"
+		"Answer": "Instagram",
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -2340,22 +2340,22 @@
 		"Segment Type": "University",
 		"Segment Description": "Tufts University",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Tufts University",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Tufts University",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 3,
 		"Percentage": 0.3
 	},
@@ -2364,8 +2364,8 @@
 		"Segment Type": "University",
 		"Segment Description": "Texas Tech University",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -2380,62 +2380,62 @@
 		"Segment Type": "University",
 		"Segment Description": "Texas Tech University",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Texas Tech University",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Texas Tech University",
-		"Answer": "None",
-		"Count": "0",
-		"Percentage": "0"
+		"Answer": "Instagram",
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Kansas State University",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Kansas State University",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Kansas State University",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Kansas State University",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Kansas State University",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 1,
 		"Percentage": 1
 	},
@@ -2444,38 +2444,38 @@
 		"Segment Type": "University",
 		"Segment Description": "University of Notre Dame",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Notre Dame",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Notre Dame",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Notre Dame",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Notre Dame",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 1,
 		"Percentage": 1
 	},
@@ -2484,8 +2484,8 @@
 		"Segment Type": "University",
 		"Segment Description": "University of Georgia",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -2500,62 +2500,62 @@
 		"Segment Type": "University",
 		"Segment Description": "University of Georgia",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Georgia",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Georgia",
-		"Answer": "None",
-		"Count": "0",
-		"Percentage": "0"
+		"Answer": "Instagram",
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Ohio University",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Ohio University",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Ohio University",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Ohio University",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Ohio University",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 1,
 		"Percentage": 1
 	},
@@ -2564,8 +2564,8 @@
 		"Segment Type": "University",
 		"Segment Description": "Washington State University",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -2580,77 +2580,61 @@
 		"Segment Type": "University",
 		"Segment Description": "Washington State University",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Washington State University",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Washington State University",
-		"Answer": "None",
-		"Count": "0",
-		"Percentage": "0"
+		"Answer": "Instagram",
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Binghamtom University",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Binghamtom University",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Binghamtom University",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Binghamtom University",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Binghamtom University",
-		"Answer": "None",
-		"Count": 1,
-		"Percentage": 1
-	},
-	{
-		"Question": "What social platform has influenced your online shopping most?",
-		"Segment Type": "University",
-		"Segment Description": "George Washington University",
-		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
-	},
-	{
-		"Question": "What social platform has influenced your online shopping most?",
-		"Segment Type": "University",
-		"Segment Description": "George Washington University",
 		"Answer": "Instagram",
 		"Count": 1,
 		"Percentage": 1
@@ -2659,33 +2643,49 @@
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "George Washington University",
+		"Answer": "Facebook",
+		"Count": 0,
+		"Percentage": 0
+	},
+	{
+		"Question": "What social platform has influenced your online shopping most?",
+		"Segment Type": "University",
+		"Segment Description": "George Washington University",
+		"Answer": "Instagram",
+		"Count": 1,
+		"Percentage": 1
+	},
+	{
+		"Question": "What social platform has influenced your online shopping most?",
+		"Segment Type": "University",
+		"Segment Description": "George Washington University",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "George Washington University",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "George Washington University",
-		"Answer": "None",
-		"Count": "0",
-		"Percentage": "0"
+		"Answer": "Instagram",
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Alabama",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -2708,14 +2708,14 @@
 		"Segment Type": "University",
 		"Segment Description": "University of Alabama",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Alabama",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 3,
 		"Percentage": 0.6
 	},
@@ -2724,8 +2724,8 @@
 		"Segment Type": "University",
 		"Segment Description": "University of Florida",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -2740,8 +2740,8 @@
 		"Segment Type": "University",
 		"Segment Description": "University of Florida",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -2755,7 +2755,7 @@
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Florida",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 1,
 		"Percentage": 0.333
 	},
@@ -2764,38 +2764,38 @@
 		"Segment Type": "University",
 		"Segment Description": "The College of New Jersey",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "The College of New Jersey",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "The College of New Jersey",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "The College of New Jersey",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "The College of New Jersey",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 1,
 		"Percentage": 1
 	},
@@ -2804,8 +2804,8 @@
 		"Segment Type": "University",
 		"Segment Description": "Florida State University",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -2820,24 +2820,24 @@
 		"Segment Type": "University",
 		"Segment Description": "Florida State University",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Florida State University",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Florida State University",
-		"Answer": "None",
-		"Count": "0",
-		"Percentage": "0"
+		"Answer": "Instagram",
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -2852,30 +2852,30 @@
 		"Segment Type": "University",
 		"Segment Description": "Santa Clara University",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Santa Clara University",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Santa Clara University",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Santa Clara University",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 2,
 		"Percentage": 0.667
 	},
@@ -2900,8 +2900,8 @@
 		"Segment Type": "University",
 		"Segment Description": "Appalachian State University",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -2915,7 +2915,7 @@
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Appalachian State University",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 12,
 		"Percentage": 0.414
 	},
@@ -2924,24 +2924,24 @@
 		"Segment Type": "University",
 		"Segment Description": "Arbroath Academy",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Arbroath Academy",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Arbroath Academy",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -2955,47 +2955,47 @@
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Arbroath Academy",
-		"Answer": "None",
-		"Count": "0",
-		"Percentage": "0"
+		"Answer": "Instagram",
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Arkansas Tech University ",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Arkansas Tech University ",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Arkansas Tech University ",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Arkansas Tech University ",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Arkansas Tech University ",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 1,
 		"Percentage": 1
 	},
@@ -3004,16 +3004,16 @@
 		"Segment Type": "University",
 		"Segment Description": "University of Rhode Island",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Rhode Island",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -3028,14 +3028,14 @@
 		"Segment Type": "University",
 		"Segment Description": "University of Rhode Island",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Rhode Island",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 1,
 		"Percentage": 0.5
 	},
@@ -3060,24 +3060,24 @@
 		"Segment Type": "University",
 		"Segment Description": "Virginia Tech",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Virginia Tech",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Virginia Tech",
-		"Answer": "None",
-		"Count": "0",
-		"Percentage": "0"
+		"Answer": "Instagram",
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -3092,30 +3092,30 @@
 		"Segment Type": "University",
 		"Segment Description": "Syracuse University",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Syracuse University",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Syracuse University",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Syracuse University",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 2,
 		"Percentage": 0.667
 	},
@@ -3124,8 +3124,8 @@
 		"Segment Type": "University",
 		"Segment Description": "Cypress Creek High School",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -3140,62 +3140,62 @@
 		"Segment Type": "University",
 		"Segment Description": "Cypress Creek High School",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Cypress Creek High School",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Cypress Creek High School",
-		"Answer": "None",
-		"Count": "0",
-		"Percentage": "0"
+		"Answer": "Instagram",
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Union High School",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Union High School",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Union High School",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Union High School",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Union High School",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 1,
 		"Percentage": 1
 	},
@@ -3235,7 +3235,7 @@
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "College of William and Mary",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 30,
 		"Percentage": 0.345
 	},
@@ -3244,38 +3244,38 @@
 		"Segment Type": "University",
 		"Segment Description": "Ohio State University",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Ohio State University",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Ohio State University",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Ohio State University",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Ohio State University",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 4,
 		"Percentage": 1
 	},
@@ -3284,16 +3284,16 @@
 		"Segment Type": "University",
 		"Segment Description": "Gulf Breeze High School",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Gulf Breeze High School",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -3308,54 +3308,54 @@
 		"Segment Type": "University",
 		"Segment Description": "Gulf Breeze High School",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Gulf Breeze High School",
-		"Answer": "None",
-		"Count": "0",
-		"Percentage": "0"
+		"Answer": "Instagram",
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Cal Poly San Luis Obispo",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Cal Poly San Luis Obispo",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Cal Poly San Luis Obispo",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Cal Poly San Luis Obispo",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Cal Poly San Luis Obispo",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 2,
 		"Percentage": 1
 	},
@@ -3364,24 +3364,24 @@
 		"Segment Type": "University",
 		"Segment Description": "Oklahoma State University ",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Oklahoma State University ",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Oklahoma State University ",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -3395,9 +3395,9 @@
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Oklahoma State University ",
-		"Answer": "None",
-		"Count": "0",
-		"Percentage": "0"
+		"Answer": "Instagram",
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -3428,14 +3428,14 @@
 		"Segment Type": "University",
 		"Segment Description": "University of Texas",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Texas",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 13,
 		"Percentage": 0.342
 	},
@@ -3444,38 +3444,38 @@
 		"Segment Type": "University",
 		"Segment Description": "Hampden-Sydney College ",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Hampden-Sydney College ",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Hampden-Sydney College ",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Hampden-Sydney College ",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Hampden-Sydney College ",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 2,
 		"Percentage": 1
 	},
@@ -3515,7 +3515,7 @@
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Arizona",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 9,
 		"Percentage": 0.176
 	},
@@ -3524,8 +3524,8 @@
 		"Segment Type": "University",
 		"Segment Description": "Coventry University",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -3540,40 +3540,40 @@
 		"Segment Type": "University",
 		"Segment Description": "Coventry University",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Coventry University",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Coventry University",
-		"Answer": "None",
-		"Count": "0",
-		"Percentage": "0"
+		"Answer": "Instagram",
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Rochester Institute of Technology",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Rochester Institute of Technology",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -3588,14 +3588,14 @@
 		"Segment Type": "University",
 		"Segment Description": "Rochester Institute of Technology",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Rochester Institute of Technology",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 1,
 		"Percentage": 0.333
 	},
@@ -3604,38 +3604,38 @@
 		"Segment Type": "University",
 		"Segment Description": "Colgate University",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Colgate University",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Colgate University",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Colgate University",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Colgate University",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 2,
 		"Percentage": 1
 	},
@@ -3675,7 +3675,7 @@
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Northwestern University",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 30,
 		"Percentage": 0.261
 	},
@@ -3684,24 +3684,24 @@
 		"Segment Type": "University",
 		"Segment Description": "Saginaw Valley State University",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Saginaw Valley State University",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Saginaw Valley State University",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -3715,9 +3715,9 @@
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Saginaw Valley State University",
-		"Answer": "None",
-		"Count": "0",
-		"Percentage": "0"
+		"Answer": "Instagram",
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -3755,7 +3755,7 @@
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Michigan",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 21,
 		"Percentage": 0.404
 	},
@@ -3764,8 +3764,8 @@
 		"Segment Type": "University",
 		"Segment Description": "Boise State University",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -3780,24 +3780,24 @@
 		"Segment Type": "University",
 		"Segment Description": "Boise State University",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Boise State University",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Boise State University",
-		"Answer": "None",
-		"Count": "0",
-		"Percentage": "0"
+		"Answer": "Instagram",
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -3835,7 +3835,7 @@
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Cornell University",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 38,
 		"Percentage": 0.311
 	},
@@ -3860,8 +3860,8 @@
 		"Segment Type": "University",
 		"Segment Description": "University of New Hampshire",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -3875,7 +3875,7 @@
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of New Hampshire",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 1,
 		"Percentage": 0.143
 	},
@@ -3884,38 +3884,38 @@
 		"Segment Type": "University",
 		"Segment Description": "UMass Dartmouth",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "UMass Dartmouth",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "UMass Dartmouth",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "UMass Dartmouth",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "UMass Dartmouth",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 2,
 		"Percentage": 1
 	},
@@ -3924,38 +3924,38 @@
 		"Segment Type": "University",
 		"Segment Description": "High Point University",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "High Point University",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "High Point University",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "High Point University",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "High Point University",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 2,
 		"Percentage": 1
 	},
@@ -3964,8 +3964,8 @@
 		"Segment Type": "University",
 		"Segment Description": "University of Minnesota",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -3980,22 +3980,22 @@
 		"Segment Type": "University",
 		"Segment Description": "University of Minnesota",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Minnesota",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Minnesota",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 2,
 		"Percentage": 0.5
 	},
@@ -4035,7 +4035,7 @@
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Claremont McKenna College",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 23,
 		"Percentage": 0.307
 	},
@@ -4044,8 +4044,8 @@
 		"Segment Type": "University",
 		"Segment Description": "University of Central Oklahoma",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -4060,24 +4060,24 @@
 		"Segment Type": "University",
 		"Segment Description": "University of Central Oklahoma",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Central Oklahoma",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Central Oklahoma",
-		"Answer": "None",
-		"Count": "0",
-		"Percentage": "0"
+		"Answer": "Instagram",
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -4108,14 +4108,14 @@
 		"Segment Type": "University",
 		"Segment Description": "Illinois State",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Illinois State",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 7,
 		"Percentage": 0.583
 	},
@@ -4124,8 +4124,8 @@
 		"Segment Type": "University",
 		"Segment Description": "University of Guelph",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -4140,32 +4140,32 @@
 		"Segment Type": "University",
 		"Segment Description": "University of Guelph",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Guelph",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Guelph",
-		"Answer": "None",
-		"Count": "0",
-		"Percentage": "0"
+		"Answer": "Instagram",
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Queens University",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -4180,22 +4180,22 @@
 		"Segment Type": "University",
 		"Segment Description": "Queens University",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Queens University",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Queens University",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 1,
 		"Percentage": 0.5
 	},
@@ -4212,30 +4212,30 @@
 		"Segment Type": "University",
 		"Segment Description": "University of Colorado Boulder",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Colorado Boulder",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Colorado Boulder",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Colorado Boulder",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 2,
 		"Percentage": 0.667
 	},
@@ -4275,7 +4275,7 @@
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Virginia",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 95,
 		"Percentage": 0.371
 	},
@@ -4292,70 +4292,70 @@
 		"Segment Type": "University",
 		"Segment Description": "Villanova University",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Villanova University",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Villanova University",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Villanova University",
-		"Answer": "None",
-		"Count": "0",
-		"Percentage": "0"
+		"Answer": "Instagram",
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Centre College",
 		"Answer": "Facebook",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Centre College",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Centre College",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Centre College",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Centre College",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 2,
 		"Percentage": 1
 	},
@@ -4380,8 +4380,8 @@
 		"Segment Type": "University",
 		"Segment Description": "Johns Hopkins University",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -4395,7 +4395,7 @@
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Johns Hopkins University",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 7,
 		"Percentage": 0.583
 	},
@@ -4435,7 +4435,7 @@
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of Wisconsin-Madison",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 34,
 		"Percentage": 0.33
 	},
@@ -4460,8 +4460,8 @@
 		"Segment Type": "University",
 		"Segment Description": "Dartmouth College",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -4475,7 +4475,7 @@
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Dartmouth College",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 8,
 		"Percentage": 0.471
 	},
@@ -4500,8 +4500,8 @@
 		"Segment Type": "University",
 		"Segment Description": "Purdue University",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -4515,7 +4515,7 @@
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Purdue University",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 13,
 		"Percentage": 0.765
 	},
@@ -4555,7 +4555,7 @@
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "San Diego State University",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 44,
 		"Percentage": 0.26
 	},
@@ -4572,30 +4572,30 @@
 		"Segment Type": "University",
 		"Segment Description": "Michigan State University",
 		"Answer": "Instagram",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Michigan State University",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Michigan State University",
 		"Answer": "Twitter",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Michigan State University",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 1,
 		"Percentage": 0.5
 	},
@@ -4620,8 +4620,8 @@
 		"Segment Type": "University",
 		"Segment Description": "Butler University",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
@@ -4635,7 +4635,7 @@
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Butler University",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 6,
 		"Percentage": 0.182
 	},
@@ -4675,7 +4675,7 @@
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "Indiana University",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 24,
 		"Percentage": 0.3
 	},
@@ -4715,7 +4715,7 @@
 		"Question": "What social platform has influenced your online shopping most?",
 		"Segment Type": "University",
 		"Segment Description": "University of California, Berkeley",
-		"Answer": "None",
+		"Answer": "Instagram",
 		"Count": 15,
 		"Percentage": 0.375
 	},
@@ -4740,8 +4740,8 @@
 		"Segment Type": "University",
 		"Segment Description": "University of Missouri",
 		"Answer": "Snapchat",
-		"Count": "0",
-		"Percentage": "0"
+		"Count": 0,
+		"Percentage": 0
 	},
 	{
 		"Question": "What social platform has influenced your online shopping most?",
